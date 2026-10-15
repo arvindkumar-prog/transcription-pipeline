@@ -1,0 +1,6 @@
+.venv/
+work*/
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
